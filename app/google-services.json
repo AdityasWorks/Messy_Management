@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "483460956498",
+    "firebase_url": "https://messy-management-551ad-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "messy-management-551ad",
+    "storage_bucket": "messy-management-551ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483460956498:android:5aef5d1ebd584fb9b83a8b",
+        "android_client_info": {
+          "package_name": "com.example.messymanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "483460956498-b40okhal6h4f54emg15omovlpqes3gsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Wyv0slKJh1j4gUBZRaW67oEZPMZ56RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "483460956498-b40okhal6h4f54emg15omovlpqes3gsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

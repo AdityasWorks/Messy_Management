@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background7"
+    tools:context=".MainActivity5"
+    tools:ignore="NamespaceTypo">
+
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="250dp"
+        android:background="@drawable/btn_bg"
+        android:text="New_Entry" />
+
+
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:background="@drawable/btn_bg"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="73dp"
+        android:layout_marginTop="325dp"
+        android:text="Messages" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/btn_bg"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="325dp"
+        android:text="Feedback" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="240dp"
+        android:layout_marginTop="250dp"
+        android:background="@drawable/btn_bg"
+        android:text="Rides" />
+
+</RelativeLayout>
